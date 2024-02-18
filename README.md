@@ -32,11 +32,11 @@ Este script se desarrolló utilizando Python como lenguaje de programación prin
 
 ## 📂 Repositorio
 
-El código fuente de este proyecto está disponible en el siguiente repositorio: [nombre_del_repositorio](enlace_al_repositorio).
+El código fuente de este proyecto está disponible en el siguiente repositorio: [Base_Datos_Json](https://github.com/JUANCITOPENA/Base_Datos_Json).
 
 ## 📄 Archivo JSON
 
-El archivo JSON generado puede encontrarse [aquí](enlace_al_archivo_json).
+El archivo JSON generado puede encontrarse [(https://raw.githubusercontent.com/JUANCITOPENA/Base_Datos_Json/main/datos.json)).
 
 ## 📄 Licencia
 
