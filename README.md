@@ -22,6 +22,14 @@ Este proyecto aborda este problema proporcionando un script simple en Python que
 
 Este script se desarrolló utilizando Python como lenguaje de programación principal. Hace uso de la biblioteca Pandas para manipular los datos del archivo de Excel y la biblioteca estándar de Python `json` para la conversión a formato JSON.
 
+### Ejecución del Script
+
+![](script.png)
+
+### Archivo JSON Resultante
+
+![](json.png)
+
 ## 📂 Repositorio
 
 El código fuente de este proyecto está disponible en el siguiente repositorio: [nombre_del_repositorio](enlace_al_repositorio).
