@@ -32,7 +32,11 @@ El archivo JSON generado puede encontrarse [aquí](enlace_al_archivo_json).
 
 ## 📄 Licencia
 
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](enlace_a_la_licencia) para más detalles.
+Este proyecto está bajo la licencia MIT, que es una licencia de software libre que permite a los usuarios utilizar, modificar y distribuir el software sin restricciones. La única condición es que se incluya el aviso de copyright y la licencia en todas las copias o partes sustanciales del software.
+
+Para más detalles sobre los términos y condiciones de la licencia MIT, consulta el archivo [LICENSE](enlace_a_la_licencia).
+
+GitHub también mostrará automáticamente un resumen de la licencia en la página principal del repositorio, lo que facilita a los usuarios comprender rápidamente los derechos y restricciones asociados con el uso del software.
 
 
 ## 📋 Cómo usarlo
