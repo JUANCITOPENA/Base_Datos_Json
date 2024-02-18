@@ -107,7 +107,7 @@ Este proyecto está bajo la licencia MIT. Consulta el [sitio web de la Licencia 
 
 ## 📋 Cómo usarlo
 
-1. Clona el repositorio o descarga el archivo `convertir_excel_a_json.py`.
+1. Clona el repositorio o descarga el archivo `ascript.py`.
 2. Ejecuta el script `convertir_excel_a_json.py` proporcionando la ruta al archivo de Excel que deseas convertir.
 3. Verifica que se haya generado el archivo JSON `datos.json` con los datos convertidos.
 
