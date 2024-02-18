@@ -32,7 +32,8 @@ El archivo JSON generado puede encontrarse [aquí](enlace_al_archivo_json).
 
 ## 📄 Licencia
 
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](enlace_a_la_licencia) para más detalles.
+
 
 ## 📋 Cómo usarlo
 
