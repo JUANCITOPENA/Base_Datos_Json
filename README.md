@@ -37,7 +37,40 @@ El código fuente de este proyecto está disponible en el siguiente repositorio:
 ## 📄 Archivo JSON
 
 El archivo JSON generado puede encontrarse [(https://raw.githubusercontent.com/JUANCITOPENA/Base_Datos_Json/main/datos.json)).
+----
+## 📝 Manual: Cómo Subir el Proyecto a GitHub
 
+Para subir el proyecto a GitHub, sigue estos pasos:
+
+1. **Crear un Repositorio en GitHub:**
+   - Ve a [GitHub](https://github.com/) y haz clic en el botón "Nuevo" para crear un nuevo repositorio.
+   - Asigna un nombre al repositorio y selecciona las opciones de visibilidad y licencia según tus preferencias.
+
+2. **Clonar el Repositorio en tu Computadora:**
+   - Copia el enlace del repositorio que acabas de crear.
+   - Abre una terminal en tu computadora y ejecuta el siguiente comando, reemplazando `<enlace-repositorio>` con el enlace copiado:
+     ```bash
+     git clone https://github.com/JUANCITOPENA/Base_Datos_Json
+     ```
+
+3. **Copiar los Archivos del Proyecto:**
+   - Copia el script Python (`script.py`) y el archivo JSON resultante (`datos.json`) al directorio recién clonado.
+
+4. **Confirmar y Subir los Cambios:**
+   - En la terminal, navega al directorio del repositorio clonado.
+   - Ejecuta los siguientes comandos para confirmar y subir los cambios:
+     ```bash
+     git add script.py datos.json
+     git commit -m "Añadir script.py y datos.json"
+     git push origin main
+     ```
+
+5. **Verificar en GitHub:**
+   - Ve a la página del repositorio en GitHub y verifica que los archivos `script.py` y `datos.json` se hayan cargado correctamente.
+
+¡Listo! Has subido con éxito el proyecto y sus archivos a GitHub.
+
+----
 ## 📄 Licencia
 
 Este proyecto está bajo la licencia MIT, que es una licencia de software libre que permite a los usuarios utilizar, modificar y distribuir el software sin restricciones. La única condición es que se incluya el aviso de copyright y la licencia en todas las copias o partes sustanciales del software.
