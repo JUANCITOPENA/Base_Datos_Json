@@ -14,7 +14,7 @@ Este proyecto aborda este problema proporcionando un script simple en Python que
 
 1. **Instalación de requisitos**: Asegúrate de tener Python instalado en tu sistema y ejecuta `pip install pandas` si no tienes la biblioteca Pandas instalada.
 
-2. **Ejecución del script**: Ejecuta el script `convertir_excel_a_json.py`, asegurándote de proporcionar la ruta correcta al archivo de Excel que deseas convertir.
+2. **Ejecución del script**: Ejecuta el script `ascript.py`, asegurándote de proporcionar la ruta correcta al archivo de Excel que deseas convertir.
 
 3. **Verificación del resultado**: El script generará un archivo JSON llamado `datos.json` que contendrá los datos del archivo de Excel en formato JSON.
 
