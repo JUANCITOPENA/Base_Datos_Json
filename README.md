@@ -1,16 +1,16 @@
-# Conversor de Archivo Excel a JSON
+# 📊 Conversor de Archivo Excel a JSON 📋
 
 Este proyecto proporciona un script en Python para convertir un archivo de Excel en un formato JSON. Es útil cuando necesitas transformar datos tabulares en un formato más flexible y fácilmente procesable.
 
-## Problema
+## 🚀 Problema
 
 Al trabajar con datos en un archivo de Excel, puede ser difícil procesarlos y manipularlos eficientemente. Además, a menudo necesitamos compartir estos datos en un formato más universal y fácilmente interpretable, como JSON.
 
-## Propuesta
+## 💡 Propuesta
 
 Este proyecto aborda este problema proporcionando un script simple en Python que toma un archivo de Excel como entrada y genera un archivo JSON con los datos contenidos en el archivo de Excel. Utiliza la biblioteca Pandas para cargar y manipular los datos del archivo de Excel, y luego convierte estos datos en un formato JSON utilizando la biblioteca estándar de Python `json`.
 
-## Solución
+## 🔧 Solución
 
 1. **Instalación de requisitos**: Asegúrate de tener Python instalado en tu sistema y ejecuta `pip install pandas` si no tienes la biblioteca Pandas instalada.
 
@@ -18,23 +18,23 @@ Este proyecto aborda este problema proporcionando un script simple en Python que
 
 3. **Verificación del resultado**: El script generará un archivo JSON llamado `datos.json` que contendrá los datos del archivo de Excel en formato JSON.
 
-## Premisa
+## 📝 Premisa
 
 Este script se desarrolló utilizando Python como lenguaje de programación principal. Hace uso de la biblioteca Pandas para manipular los datos del archivo de Excel y la biblioteca estándar de Python `json` para la conversión a formato JSON.
 
-## Repositorio
+## 📂 Repositorio
 
 El código fuente de este proyecto está disponible en el siguiente repositorio: [nombre_del_repositorio](enlace_al_repositorio).
 
-## Archivo JSON
+## 📄 Archivo JSON
 
 El archivo JSON generado puede encontrarse [aquí](enlace_al_archivo_json).
 
-## Licencia
+## 📄 Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 
-## Cómo usarlo
+## 📋 Cómo usarlo
 
 1. Clona el repositorio o descarga el archivo `convertir_excel_a_json.py`.
 2. Ejecuta el script `convertir_excel_a_json.py` proporcionando la ruta al archivo de Excel que deseas convertir.
