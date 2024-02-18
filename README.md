@@ -71,6 +71,34 @@ Para subir el proyecto a GitHub, sigue estos pasos:
 ¡Listo! Has subido con éxito el proyecto y sus archivos a GitHub.
 
 ----
+
+## 📝 Manual: Cómo Usar los Datos JSON en Excel desde la Web
+
+Para usar los datos JSON en Excel desde la web, sigue estos pasos:
+
+1. **Abrir Excel:**
+   - Abre Microsoft Excel en tu computadora.
+
+2. **Crear un Nuevo Libro:**
+   - Crea un nuevo libro de Excel en blanco.
+
+3. **Importar los Datos JSON:**
+   - Ve a la pestaña "Datos" en la barra de herramientas de Excel.
+   - Selecciona "Obtener datos" y luego "Desde otras fuentes".
+   - Elije "Desde Web o el mismo JSON" y pega la URL del archivo JSON alojado en GitHub.
+   - Sigue las instrucciones para importar los datos JSON a Excel.
+
+4. **Trabajar con los Datos Importados:**
+   - Una vez importados, podrás trabajar con los datos como lo harías con cualquier otro conjunto de datos en Excel.
+   - -La idea es que ahora las personas que tengan acceso al archivo puedan realizar sus análisis y, cuando se suban nuevos cambios, simplemente deberán dar clic en 'Actualizar' para que los datos en sus archivos sean corregidos y actualizados automáticamente.
+   - Puedes realizar análisis, generar gráficos, y más, dependiendo de tus necesidades.
+
+5. **Actualizar los Datos:**
+   - Si el archivo JSON en GitHub se actualiza, puedes actualizar los datos en Excel haciendo clic en "Actualizar" en la pestaña "Datos".
+
+¡Listo! Ahora puedes acceder y trabajar con los datos JSON en Excel directamente desde la web.
+
+----
 ## 📄 Licencia
 
 Este proyecto está bajo la licencia MIT, que es una licencia de software libre que permite a los usuarios utilizar, modificar y distribuir el software sin restricciones. La única condición es que se incluya el aviso de copyright y la licencia en todas las copias o partes sustanciales del software.
